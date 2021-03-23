@@ -1,0 +1,9 @@
+{
+    "conexion":{
+        "server" : "localhost",
+        "user" : "root",
+        "password":"Luna2118*",
+        "database" : "apirest",
+        "port" : 3306
+    }
+}
